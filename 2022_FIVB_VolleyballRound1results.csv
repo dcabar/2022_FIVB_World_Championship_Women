@@ -1,0 +1,61 @@
+date,time,venue,Winner,Team1,Team1_Score,Team2_Score,Team2,team1_set1_score,team2_set1_score,team1_set2_score,team2_set2_score,team1_set3_score,team2_set3_score,team1_set4_score,team2_set4_score,team1_set5_score,team2_set5_score,team1_totalscore,team2_totalscore,report,Pool
+23-Sep,20:00,GDA,Netherlands,Netherlands,3,0,Kenya,25,11,25,17,25,11,,NA,NA,NA,75,39,P2 Report,Pool A
+24-Sep,14:00,GDA,Belgium,Belgium,3,0,Puerto Rico,25,15,27,25,25,15,,NA,NA,NA,77,55,P2 Report,Pool A
+24-Sep,15:00,GDA,Italy,Italy,3,0,Cameroon,25,10,25,12,25,16,,NA,NA,NA,75,38,P2 Report,Pool A
+25-Sep,13:00,GDA,Belgium,Belgium,3,0,Kenya,25,15,25,14,25,11,,NA,NA,NA,75,40,P2 Report,Pool A
+25-Sep,16:00,GDA,Netherlands,Netherlands,3,0,Cameroon,25,11,25,20,25,13,,NA,NA,NA,75,44,P2 Report,Pool A
+26-Sep,18:00,GDA,Italy,Italy,3,0,Puerto Rico,28,26,25,21,26,24,,NA,NA,NA,79,71,P2 Report,Pool A
+27-Sep,18:00,GDA,Italy,Italy,3,1,Belgium,21,25,30,28,29,27,25,9,NA,NA,105,89,P2 Report,Pool A
+27-Sep,20:00,GDA,Kenya,Cameroon,0,3,Kenya,20,25,25,27,19,25,,NA,NA,NA,64,77,P2 Report,Pool A
+28-Sep,20:00,GDA,Netherlands,Netherlands,3,1,Puerto Rico,23,25,25,20,25,16,25,15,NA,NA,98,76,P2 Report,Pool A
+29-Sep,18:00,GDA,Italy,Italy,3,0,Kenya,25,15,25,23,25,17,,NA,NA,NA,75,55,P2 Report,Pool A
+29-Sep,20:00,GDA,Puerto Rico,Puerto Rico,3,0,Cameroon,25,23,25,16,25,11,,NA,NA,NA,75,50,P2 Report,Pool A
+30-Sep,20:00,GDA,Belgium,Netherlands,1,3,Belgium,16,25,23,25,26,24,25,27,NA,NA,90,101,P2 Report,Pool A
+1-Oct,16:00,GDA,Puerto Rico,Puerto Rico,3,1,Kenya,25,15,19,25,25,18,25,20,NA,NA,94,78,P2 Report,Pool A
+2-Oct,13:00,GDA,Belgium,Belgium,3,0,Cameroon,25,8,25,19,25,14,,NA,NA,NA,75,41,P2 Report,Pool A
+2-Oct,16:00,GDA,Italy,Netherlands,1,3,Italy,13,25,25,22,16,25,21,25,NA,NA,75,97,P2 Report,Pool A
+23-Sep,18:00,GDA,Poland,Poland,3,1,Croatia,25,19,21,25,25,23,25,15,,NA,96,82,P2 Report,Pool B
+24-Sep,13:00,GDA,Thailand,Turkey,2,3,Thailand,25,17,29,31,25,22,19,25,13,15,111,110,P2 Report,Pool B
+24-Sep,18:30,GDA,Dominican Republic,Dominican Republic,3,0,South Korea,25,19,25,12,25,15,,NA,,NA,75,46,P2 Report,Pool B
+27-Sep,14:00,ERA,Turkey,Turkey,3,0,South Korea,25,14,25,13,25,13,,NA,,NA,75,40,P2 Report,Pool B
+27-Sep,17:30,ERA,Dominican Republic,Dominican Republic,3,0,Croatia,25,20,25,15,25,21,,NA,,NA,75,56,P2 Report,Pool B
+27-Sep,20:30,ERA,Poland,Poland,3,0,Thailand,25,17,25,17,25,17,,NA,,NA,75,51,P2 Report,Pool B
+28-Sep,14:00,ERA,Thailand,Thailand,3,0,Croatia,25,18,25,13,25,21,,NA,,NA,75,52,P2 Report,Pool B
+28-Sep,17:30,ERA,Turkey,Turkey,3,2,Dominican Republic,21,25,25,21,25,18,16,25,15,13,102,102,P2 Report,Pool B
+28-Sep,20:30,ERA,Poland,Poland,3,0,South Korea,25,17,25,18,25,16,,NA,,NA,75,51,P2 Report,Pool B
+29-Sep,14:00,ERA,Thailand,South Korea,0,3,Thailand,13,25,15,25,14,25,,NA,,NA,42,75,P2 Report,Pool B
+29-Sep,17:30,ERA,Turkey,Turkey,3,0,Croatia,25,14,25,12,25,12,,NA,,NA,75,38,P2 Report,Pool B
+29-Sep,20:30,ERA,Dominican Republic,Poland,1,3,Dominican Republic,25,18,22,25,21,25,21,25,,NA,89,93,P2 Report,Pool B
+1-Oct,14:00,ERA,Thailand,Dominican Republic,2,3,Thailand,29,31,25,16,25,21,22,25,11,15,112,108,P2 Report,Pool B
+1-Oct,17:30,ERA,South Korea,South Korea,3,1,Croatia,25,21,27,29,27,25,25,23,,NA,104,98,P2 Report,Pool B
+1-Oct,20:30,ERA,Turkey,Poland,2,3,Turkey,25,22,23,25,22,25,25,18,11,15,106,105,P2 Report,Pool B
+24-Sep,19:30,GDA,United States,United States,3,0,Kazakhstan,25,16,25,13,25,22,,NA,,NA,75,51,P2 Report,Pool C
+25-Sep,19:00,GDA,Germany,Germany,3,1,Bulgaria,25,22,21,25,25,23,25,21,,NA,96,91,P2 Report,Pool C
+25-Sep,20:00,GDA,Serbia,Serbia,3,0,Canada,25,23,25,16,25,20,,NA,,NA,75,59,P2 Report,Pool C
+26-Sep,15:30,GDA,Germany,Germany,3,0,Kazakhstan,25,15,25,18,25,21,,NA,,NA,75,54,P2 Report,Pool C
+26-Sep,16:00,GDA,Serbia,Serbia,3,2,Bulgaria,25,21,22,25,25,27,25,21,15,9,112,103,P2 Report,Pool C
+26-Sep,21:00,GDA,United States,United States,3,0,Canada,25,19,26,24,25,15,,NA,,NA,76,58,P2 Report,Pool C
+29-Sep,13:00,ATA,Canada,Canada,3,0,Kazakhstan,25,14,25,16,25,11,,NA,,NA,75,41,P2 Report,Pool C
+29-Sep,16:00,ATA,Serbia,Serbia,3,0,Germany,25,23,25,22,25,23,,NA,,NA,75,68,P2 Report,Pool C
+29-Sep,19:00,ATA,United States,United States,3,1,Bulgaria,25,14,23,25,25,11,25,15,,NA,98,65,P2 Report,Pool C
+30-Sep,13:00,ATA,Serbia,Serbia,3,0,Kazakhstan,25,13,25,17,25,10,,NA,,NA,75,40,P2 Report,Pool C
+30-Sep,16:00,ATA,Canada,Bulgaria,1,3,Canada,21,25,27,25,20,25,15,25,,NA,83,100,P2 Report,Pool C
+30-Sep,19:00,ATA,United States,United States,3,0,Germany,25,17,25,13,26,24,,NA,,NA,76,54,P2 Report,Pool C
+1-Oct,13:00,ATA,Bulgaria,Bulgaria,3,0,Kazakhstan,25,18,25,22,25,18,,NA,,NA,75,58,P2 Report,Pool C
+1-Oct,16:00,ATA,Canada,Germany,2,3,Canada,25,12,26,24,23,25,18,25,9,15,101,101,P2 Report,Pool C
+1-Oct,19:00,ATA,Serbia,United States,0,3,Serbia,20,25,23,25,13,25,,NA,,NA,56,75,P2 Report,Pool C
+24-Sep,20:30,GDA,Brazil,Brazil,3,1,Czech Republic,25,20,25,16,22,25,25,18,,NA,97,79,P2 Report,Pool D
+25-Sep,14:00,GDA,China,China,3,0,Argentina,25,23,25,22,25,20,,NA,,NA,75,65,P2 Report,Pool D
+25-Sep,14:15,GDA,Japan,Japan,3,0,Colombia,25,20,25,22,25,17,,NA,,NA,75,59,P2 Report,Pool D
+26-Sep,14:15,GDA,Japan,Japan,3,0,Czech Republic,25,15,25,20,25,12,,NA,,NA,75,47,P2 Report,Pool D
+26-Sep,18:30,GDA,Brazil,Brazil,3,0,Argentina,25,19,25,13,25,21,,NA,,NA,75,53,P2 Report,Pool D
+27-Sep,14:00,GDA,China,China,3,0,Colombia,25,16,25,21,25,16,,NA,,NA,75,53,P2 Report,Pool D
+28-Sep,14:15,GDA,China,China,3,0,Japan,28,26,25,17,29,27,,NA,,NA,82,70,P2 Report,Pool D
+28-Sep,15:00,GDA,Brazil,Brazil,3,0,Colombia,25,14,25,12,25,20,,NA,,NA,75,46,P2 Report,Pool D
+28-Sep,18:00,GDA,Argentina,Argentina,3,1,Czech Republic,25,20,20,25,25,22,25,22,,NA,95,89,P2 Report,Pool D
+30-Sep,14:00,GDA,China,China,3,0,Czech Republic,25,19,25,22,27,25,,NA,,NA,77,66,P2 Report,Pool D
+30-Sep,14:15,GDA,Japan,Brazil,1,3,Japan,22,25,19,25,25,17,20,25,,NA,86,92,P2 Report,Pool D
+30-Sep,18:00,GDA,Argentina,Colombia,2,3,Argentina,25,19,17,25,29,27,20,25,8,15,99,111,P2 Report,Pool D
+1-Oct,14:00,GDA,Brazil,Brazil,3,1,China,23,25,25,17,25,22,25,22,,NA,98,86,P2 Report,Pool D
+1-Oct,18:00,GDA,Czech Republic,Colombia,1,3,Czech Republic,22,25,13,25,25,19,18,25,,NA,78,94,P2 Report,Pool D
+2-Oct,14:15,GDA,Japan,Japan,3,0,Argentina,25,17,25,19,25,17,,NA,,NA,75,53,P2 Report,Pool D
